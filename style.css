@@ -1,12 +1,12 @@
-div.icon{
+div.icon {
     position: absolute;
-    top: 25px; left: 700px;
+    right: 100px;
+    bottom: 650px;
     position: fixed;
 }
 
-
-div.tooltip-content{
-    position: absolute; top: 60px; left: -0px; 
+div.tooltip-content {
+     position: absolute; top: 60px; left: -0px; 
     background-color: black;
     padding: 10px;
     display: none;
